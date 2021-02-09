@@ -1,3 +1,2 @@
-#michael
-Replace this with your name, and include a header.
+# michael
 <h6> im hungry 
